@@ -13,4 +13,5 @@
 # "IT and Business" idea each person
 
 my idea is a big OLED white board that lots of people can collaborate on to make drawings/art - annie
+
 I'm keen to develop our family business's website to a professianl one- Fatemeh
