@@ -10,3 +10,4 @@
 
 ![SEEKER](https://user-images.githubusercontent.com/79612653/110718566-14b0a100-8270-11eb-9e9c-7f94ff210371.jpg)
 
+my idea is a big OLED white board that lots of people can collaborate on to make drawings/art - annie
