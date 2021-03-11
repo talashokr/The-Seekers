@@ -15,3 +15,5 @@
 my idea is a big OLED white board that lots of people can collaborate on to make drawings/art - annie
 
 I'm keen to develop our family business's website to a professianl one- Fatemeh
+
+My idea is a monitor/projector glasses, when you wear it, it will reflect the display of your computer/smart phone, and you can use other device such as lazer keyboard to control it anywhere, anytime. 
