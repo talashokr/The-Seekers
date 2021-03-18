@@ -22,3 +22,7 @@ My idea is a monitor/projector glasses, when you wear it, it will reflect the di
 branchy branch
 
 branch
+
+![image](https://user-images.githubusercontent.com/79612757/111555912-3e2c7800-87ee-11eb-90bb-91e2215b57a2.png)
+ name : The Seekers, People: Anna-Louisa Ottow, Tala shokrpour, Yichu Zhang, Yuandong Wang
+ 
